@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Head
+  - Rshoulder
+  - Relbow
+  - Rhand
+  - Lshoulder
+  - Lelbow
+  - Lhand
+  - Rpelvis
+  - RKnee
+  - Rfoot
+  - Lpelvis
+  - Lknee
+  - Lfoot
+  - bodytag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Head
+  - R_shoulder
+  - R_elbow
+  - R_hand
+  - L_shoulder
+  - L_elbow
+  - L_hand
+  - R_pelvis
+  - R_knee
+  - R_foot
+  - L_pelvis
+  - L_knee
+  - L_foot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
