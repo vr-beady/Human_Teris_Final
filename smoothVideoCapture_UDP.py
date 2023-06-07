@@ -1,16 +1,13 @@
 import cv2
 from cvzone.PoseModule import PoseDetector
 import socket
-import mediapipe as mp
-import numpy as np
-
 cap = cv2.VideoCapture(0)
 
 detector = PoseDetector()
 posList = []
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-serverAddressPort = ("127.0.0.1", 5056)
+serverAddressPort = ("127.0.0.1", 5054)
 
 while True:
     success, img = cap.read()
