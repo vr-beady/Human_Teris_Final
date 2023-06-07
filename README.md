@@ -8,7 +8,7 @@
 * opencv-python 4.5.5.64
 * numpy 1.22.4
 * socket
-[![image](https://github.com/vr-beady/Human_Teris_Final/assets/131236716/3cdc3084-1d36-4b5e-a15c-0ee879a7cc26)](https://hackmd.io/_uploads/Byfb9DpU3.jpg)
+![image](https://github.com/vr-beady/Human_Teris_Final/assets/131236716/3cdc3084-1d36-4b5e-a15c-0ee879a7cc26)](https://hackmd.io/_uploads/Byfb9DpU3.jpg)
 
 ----
 使用方式:
